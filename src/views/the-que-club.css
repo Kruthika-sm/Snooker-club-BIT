@@ -1,0 +1,2071 @@
+.the-que-club-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.the-que-club-the-que-club {
+  width: 100%;
+  height: 4774px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.the-que-club-footer {
+  top: 3232px;
+  left: 190px;
+  width: 1617.944580078125px;
+  height: 1821.8642578125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-decore {
+  top: 1325px;
+  left: 1617.944580078125px;
+  width: 478.9445495605469px;
+  height: 496.8642272949219px;
+  display: flex;
+  opacity: 0.40;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse8 {
+  top: 0px;
+  left: 0px;
+  width: 479px;
+  height: 497px;
+  opacity: 0.80;
+  position: absolute;
+}
+.the-que-club-outbound {
+  top: 1209px;
+  left: 846px;
+  width: 214px;
+  height: 147px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-social {
+  top: 0px;
+  left: 2px;
+  width: 177px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-social1 {
+  top: 2px;
+  left: 136px;
+  width: 41px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-background {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+}
+.the-que-club-vector {
+  top: 14px;
+  left: 12px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.the-que-club-social2 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-background1 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+}
+.the-que-club-facebook-icon {
+  top: 16px;
+  left: 17.5712890625px;
+  width: 6px;
+  height: 13px;
+  position: absolute;
+}
+.the-que-club-social3 {
+  top: 0px;
+  left: 66px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-background2 {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+}
+.the-que-club-instagram1 {
+  top: 14px;
+  left: 15px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.the-que-club-group {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-group1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.the-que-club-group2 {
+  top: 1.90625px;
+  left: 12.21875px;
+  width: 1.875px;
+  height: 1.875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.the-que-club-group3 {
+  top: 3.78125px;
+  left: 3.78125px;
+  width: 8.4375px;
+  height: 8.4375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.the-que-club-discover {
+  top: 71px;
+  left: 0px;
+  width: 214px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text {
+  left: 2px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-google-play {
+  top: 41px;
+  left: 0px;
+  width: 107px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(8, 8, 8, 1);
+}
+.the-que-club-googleplay1 {
+  top: 7px;
+  left: 17px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.the-que-club-vector04 {
+  top: 9.288000106811523px;
+  left: 42.2400016784668px;
+  width: 54px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.the-que-club-play-store {
+  top: 41px;
+  left: 114px;
+  width: 100px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(8, 8, 8, 1);
+}
+.the-que-club-apple21 {
+  top: 8px;
+  left: 17.438232421875px;
+  width: 13.123594284057617px;
+  height: 15.999847412109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-group4 {
+  top: 0px;
+  left: 0px;
+  width: 13.123594284057617px;
+  height: 15.999847412109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector05 {
+  top: 3.68603515625px;
+  left: 0px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+.the-que-club-vector06 {
+  top: 0px;
+  left: 6.535400390625px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.the-que-club-vector07 {
+  top: 8.619999885559082px;
+  left: 36px;
+  width: 54px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.the-que-club-company-desc {
+  top: 1188px;
+  left: 0px;
+  width: 217px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text002 {
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text004 {
+  top: 85px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-nav-columns {
+  top: 1209px;
+  left: 290px;
+  width: 520px;
+  height: 151px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-nav-row {
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 151px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text011 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text013 {
+  top: 60px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text015 {
+  top: 94px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text017 {
+  top: 129px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-nav-row1 {
+  top: 0px;
+  left: 180px;
+  width: 89px;
+  height: 151px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text019 {
+  left: 1px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text021 {
+  top: 58px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text023 {
+  top: 94px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text025 {
+  top: 129px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-nav-row2 {
+  top: 0px;
+  left: 360px;
+  width: 160px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text027 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text029 {
+  top: 60px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text031 {
+  top: 1479px;
+  left: 659px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-screenshot202307151442561 {
+  top: 0px;
+  left: 585px;
+  width: 556px;
+  height: 244px;
+  position: absolute;
+}
+.the-que-club-subscribesection {
+  top: 3703px;
+  left: 46px;
+  width: 1277px;
+  height: 420px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-group78 {
+  top: 13px;
+  left: 0px;
+  width: 1257px;
+  height: 407px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-rectangle164 {
+  top: 0px;
+  left: 1257px;
+  width: 1170px;
+  height: 407px;
+  opacity: 0.20;
+  position: absolute;
+  border-radius: 20px 129px 20px 20px;
+}
+.the-que-club-mask-group {
+  top: 0px;
+  left: 993px;
+  width: 264px;
+  height: 351.521728515625px;
+  display: flex;
+  opacity: 0.10;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(NaNdeg, rgba(116, 125, 239, 1) 0%, rgba(94, 59, 225, 1) 100%);
+}
+.the-que-club-group42 {
+  top: -17.217391967773438px;
+  left: 61.69565200805664px;
+  width: 284.8043518066406px;
+  height: 290.876953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse19 {
+  top: 103.23404693603516px;
+  left: 85.01597595214844px;
+  width: 185px;
+  height: 185px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse20 {
+  top: 82.58715057373047px;
+  left: 66.79815673828125px;
+  width: 206px;
+  height: 206px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse21 {
+  top: 64.97673797607422px;
+  left: 51.00959396362305px;
+  width: 226px;
+  height: 226px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse22 {
+  top: 44.937068939208984px;
+  left: 36.435482025146484px;
+  width: 243px;
+  height: 243px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse23 {
+  top: 25.5048885345459px;
+  left: 22.468420028686523px;
+  width: 259px;
+  height: 259px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse24 {
+  top: 0px;
+  left: 0px;
+  width: 285px;
+  height: 285px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-mask-group1 {
+  top: 46px;
+  left: 480.0000305175781px;
+  width: 361px;
+  height: 480px;
+  display: flex;
+  opacity: 0.10;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(NaNdeg, rgba(116, 125, 239, 1) 0%, rgba(94, 59, 225, 1) 100%);
+}
+.the-que-club-group421 {
+  top: 85.73153789288972px;
+  left: 23.510009832877813px;
+  width: 389.4483642578125px;
+  height: 397.190185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse191 {
+  top: 116.25294641389337px;
+  left: -140.96533711282802px;
+  width: 252px;
+  height: 252px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse201 {
+  top: 91.3412807761365px;
+  left: -112.77221316013492px;
+  width: 282px;
+  height: 282px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse211 {
+  top: 69.75180428819613px;
+  left: -88.72534484582343px;
+  width: 309px;
+  height: 308px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse221 {
+  top: 49.82269018891566px;
+  left: -61.36108234749685px;
+  width: 332px;
+  height: 332px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse231 {
+  top: 30.72376098988525px;
+  left: -34.826661499228294px;
+  width: 355px;
+  height: 354px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-ellipse241 {
+  top: 0px;
+  left: 0px;
+  width: 389px;
+  height: 389px;
+  position: absolute;
+  border-color: rgba(98, 70, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.the-que-club-group76 {
+  top: 274px;
+  left: 339px;
+  width: 421px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.the-que-club-text033 {
+  top: 25px;
+  left: 66px;
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-group46 {
+  top: 25px;
+  left: 31px;
+  width: 21px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector5 {
+  top: 6px;
+  left: 4px;
+  width: 12px;
+  height: 4px;
+  position: absolute;
+}
+.the-que-club-group57 {
+  top: 274px;
+  left: 784px;
+  width: 180px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(180deg, rgba(255, 148, 109, 1) 0%, rgba(255, 125, 104, 1) 100%);
+}
+.the-que-club-text035 {
+  top: 22px;
+  left: 61px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text037 {
+  top: 92px;
+  left: 186px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 33px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 54px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-group77 {
+  top: 0px;
+  left: 1207px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse31 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.the-que-club-send21 {
+  top: 28.38427734375px;
+  left: 15px;
+  width: 34.76860046386719px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 30px;
+  position: absolute;
+}
+.the-que-club-vector09 {
+  top: 12.990444418387142px;
+  left: 7.500036716461182px;
+  width: 35px;
+  height: 15px;
+  position: absolute;
+}
+.the-que-club-vector10 {
+  top: 10.806688690621286px;
+  left: 9.244961784832412px;
+  width: 13px;
+  height: 2px;
+  position: absolute;
+}
+.the-que-club-vector11 {
+  top: 11.688930746512142px;
+  left: 9.75432448243373px;
+  width: 13px;
+  height: 1px;
+  position: absolute;
+}
+.the-que-club-testimonialssection {
+  top: 3003px;
+  left: 212px;
+  width: 1145px;
+  height: 488px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text042 {
+  top: 229px;
+  color: var(--dl-color-default-textclr);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text044 {
+  top: 264px;
+  color: var(--dl-color-default-3rd);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-group61 {
+  top: 476px;
+  left: 0px;
+  width: 87px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse25 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.the-que-club-ellipse26 {
+  top: 0px;
+  left: 38px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.the-que-club-ellipse28 {
+  top: 0px;
+  left: 75px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.the-que-club-picture21 {
+  top: 0px;
+  left: 772px;
+  width: 373px;
+  height: 81px;
+  position: absolute;
+}
+.the-que-club-bookatrip {
+  top: 2630px;
+  left: 190px;
+  width: 523.8438110351562px;
+  height: 466px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text049 {
+  top: 39.78046798706055px;
+  color: var(--dl-color-default-3rd);
+  width: 524px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text054 {
+  left: 3.0754623413085938px;
+  color: var(--dl-color-default-textclr);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-values {
+  top: 192.00003051757812px;
+  left: 69.70919799804688px;
+  width: 335.2190246582031px;
+  height: 273.9999694824219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-value {
+  top: 0px;
+  left: 0px;
+  width: 335.2190246582031px;
+  height: 60.890174865722656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text056 {
+  left: 0.29079437255859375px;
+  color: var(--dl-color-default-textclr);
+  width: 246px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text058 {
+  top: 23.003995895385742px;
+  color: var(--dl-color-default-textclr);
+  width: 335px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-value1 {
+  top: 212.4351043701172px;
+  left: 0px;
+  width: 335.2190246582031px;
+  height: 61.56486892700195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text060 {
+  top: 23.678693771362305px;
+  color: var(--dl-color-default-textclr);
+  width: 335px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text062 {
+  color: var(--dl-color-default-textclr);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-value2 {
+  top: 105.99995422363281px;
+  left: 0px;
+  width: 335.2190246582031px;
+  height: 60.971527099609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text064 {
+  top: 23.085350036621094px;
+  color: var(--dl-color-default-textclr);
+  width: 335px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text066 {
+  left: 0.29079437255859375px;
+  color: var(--dl-color-default-textclr);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 124.50000047683716%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-pay1 {
+  top: 416px;
+  left: 2px;
+  width: 47px;
+  height: 44px;
+  position: absolute;
+}
+.the-que-club-destinations {
+  top: 1971px;
+  left: 89px;
+  width: 1257px;
+  height: 563px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-decore1 {
+  top: 276.7682800292969px;
+  left: 1153.0726318359375px;
+  width: 104px;
+  height: 219px;
+  position: absolute;
+}
+.the-que-club-decore2 {
+  top: 167px;
+  left: 101px;
+  width: 101px;
+  height: 219px;
+  position: absolute;
+}
+.the-que-club-text068 {
+  left: 560.9029541015625px;
+  color: var(--dl-color-default-textclr);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text070 {
+  top: 30.461883544921875px;
+  left: 407.17694091796875px;
+  color: var(--dl-color-default-3rd);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-image8c69217341c2c0b28fccde7a565658d41 {
+  top: 166px;
+  left: 68px;
+  width: 521px;
+  height: 397px;
+  position: absolute;
+}
+.the-que-club-services {
+  top: 946px;
+  left: 141px;
+  width: 1182px;
+  height: 409.8278503417969px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text072 {
+  left: 539.9862060546875px;
+  color: var(--dl-color-default-textclr);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text074 {
+  top: 28.984525680541992px;
+  left: 296.65106201171875px;
+  color: var(--dl-color-default-3rd);
+  width: 594px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category-active {
+  top: 138px;
+  left: 255px;
+  width: 328.0679626464844px;
+  height: 271.8278503417969px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-rectangle157 {
+  top: 193.4912872314453px;
+  left: 0px;
+  width: 109px;
+  height: 78px;
+  position: absolute;
+  border-radius: 30px 0 10px;
+}
+.the-que-club-rectangle6 {
+  top: 0px;
+  left: 38.021121978759766px;
+  width: 290px;
+  height: 246px;
+  position: absolute;
+  border-radius: 36px;
+}
+.the-que-club-text076 {
+  top: 149.62281799316406px;
+  left: 85.81909942626953px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text078 {
+  top: 116.72146606445312px;
+  left: 118.40863037109375px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category {
+  top: 250.00001525878906px;
+  left: 0px;
+  width: 206.40036010742188px;
+  height: 93.8974838256836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text080 {
+  top: 32.79496765136719px;
+  left: 4.431588649749756px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text082 {
+  color: var(--dl-color-default-textheadingcolor);
+  width: 206px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category1 {
+  top: 249.89361572265625px;
+  left: 660.5675048828125px;
+  width: 196.62350463867188px;
+  height: 94.00386810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text084 {
+  top: 32.90135192871094px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text086 {
+  left: 31.50321388244629px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category2 {
+  top: 249.89358520507812px;
+  left: 985.37646484375px;
+  width: 196.62350463867188px;
+  height: 94.00386810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text088 {
+  top: 32.90135192871094px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text090 {
+  left: 21.726354598999023px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-t1 {
+  top: 138px;
+  left: 692px;
+  width: 124px;
+  height: 117px;
+  position: absolute;
+}
+.the-que-club-hero {
+  top: -149px;
+  left: -401px;
+  width: 1922.306884765625px;
+  height: 901px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-decore3 {
+  top: 0px;
+  left: 0px;
+  width: 1922.306884765625px;
+  height: 872.584228515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse81 {
+  top: 89.16445922851562px;
+  left: 0px;
+  width: 479px;
+  height: 497px;
+  opacity: 0.30;
+  position: absolute;
+}
+.the-que-club-decore4 {
+  top: 0px;
+  left: 1156px;
+  width: 766px;
+  height: 873px;
+  position: absolute;
+}
+.the-que-club-top-nav {
+  top: 196px;
+  left: 928.9999389648438px;
+  width: 773.5px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text092 {
+  top: 9px;
+  left: 370.0001220703125px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text094 {
+  top: 9px;
+  left: 227.0001220703125px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text096 {
+  top: 9px;
+  left: 105.00003051757812px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text098 {
+  top: 9px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text100 {
+  top: 9px;
+  left: 495.00006103515625px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-button {
+  top: 0px;
+  left: 591.0000610351562px;
+  width: 102px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text102 {
+  top: 9px;
+  left: 22px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-dropdown {
+  top: 9px;
+  left: 735px;
+  width: 38.5px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text104 {
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Allura;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-vector1 {
+  top: 8.5px;
+  left: 29.5px;
+  width: 9px;
+  height: 4px;
+  position: absolute;
+}
+.the-que-club-hero-content {
+  top: 366px;
+  left: 549px;
+  width: 630px;
+  height: 535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-desc {
+  top: 0px;
+  left: 0px;
+  width: 630px;
+  height: 535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-cta {
+  top: 475px;
+  left: 0px;
+  width: 379px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-cta1 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(188, 239, 164, 1);
+}
+.the-que-club-text106 {
+  top: 19px;
+  left: 43px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Agency FB;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-play-demo {
+  top: 4px;
+  left: 214px;
+  width: 165px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text108 {
+  top: 15px;
+  left: 73px;
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-playbutton {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-ellipse82 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+}
+.the-que-club-polygon1 {
+  top: 20px;
+  left: 34px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.the-que-club-text110 {
+  left: 2px;
+  color: rgba(223, 105, 81, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text112 {
+  top: 294px;
+  color: rgba(94, 98, 130, 1);
+  width: 561px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-decore5 {
+  top: 123px;
+  left: 245px;
+  width: 385px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.the-que-club-vector12 {
+  top: -27.393798828125px;
+  left: 19.161720275878906px;
+  width: 377px;
+  height: 66px;
+  position: absolute;
+}
+.the-que-club-text119 {
+  top: 54px;
+  left: 2px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 84px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: 89px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-billiardstablebulletgame1 {
+  top: 136px;
+  left: 793px;
+  width: 548px;
+  height: 716px;
+  position: absolute;
+}
+.the-que-club-services1 {
+  top: 1061px;
+  left: 163px;
+  width: 1183px;
+  height: 789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text124 {
+  top: 384px;
+  left: 540.9862060546875px;
+  color: var(--dl-color-default-textclr);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text126 {
+  top: 413px;
+  left: 298px;
+  color: var(--dl-color-default-3rd);
+  width: 647px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category-active1 {
+  top: 517.172119140625px;
+  left: 247.68045043945312px;
+  width: 328.0679626464844px;
+  height: 271.8278503417969px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-rectangle1571 {
+  top: 193.4912872314453px;
+  left: 0px;
+  width: 109px;
+  height: 78px;
+  position: absolute;
+  border-radius: 30px 0 10px;
+}
+.the-que-club-rectangle61 {
+  top: 0px;
+  left: 38.021121978759766px;
+  width: 290px;
+  height: 246px;
+  position: absolute;
+  border-radius: 36px;
+}
+.the-que-club-text128 {
+  top: 149.62281799316406px;
+  left: 85.81909942626953px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text130 {
+  top: 116.82778930664062px;
+  left: 118.3195571899414px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category3 {
+  top: 633.8936157226562px;
+  left: 0px;
+  width: 206.40036010742188px;
+  height: 94.00386810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text132 {
+  top: 32.90135192871094px;
+  left: 5.431588649749756px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text134 {
+  color: var(--dl-color-default-textheadingcolor);
+  width: 206px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category4 {
+  top: 633.8936157226562px;
+  left: 661.5675048828125px;
+  width: 196.62350463867188px;
+  height: 94.00386810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text136 {
+  top: 32.90135192871094px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text138 {
+  left: 31.50321388244629px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-category5 {
+  top: 633.8935546875px;
+  left: 986.37646484375px;
+  width: 196.62350463867188px;
+  height: 94.00386810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.the-que-club-text140 {
+  top: 32.90135192871094px;
+  color: var(--dl-color-default-textclr);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-text142 {
+  left: 21.726354598999023px;
+  color: var(--dl-color-default-textheadingcolor);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-que-club-food1 {
+  top: 0px;
+  left: 985px;
+  width: 147px;
+  height: 135px;
+  position: absolute;
+}
+.the-que-club-online1 {
+  top: 494px;
+  left: 35px;
+  width: 138px;
+  height: 140px;
+  position: absolute;
+}
+.the-que-club-offline1 {
+  top: 517px;
+  left: 383px;
+  width: 104px;
+  height: 108px;
+  position: absolute;
+}
+.the-que-club-s1 {
+  top: 498px;
+  left: 1012px;
+  width: 133px;
+  height: 136px;
+  position: absolute;
+}
+.the-que-club-picture11 {
+  top: 87px;
+  left: 37px;
+  width: 1226px;
+  height: 169px;
+  position: absolute;
+}
+.the-que-club-membership21 {
+  top: 1047px;
+  left: 161px;
+  width: 174px;
+  height: 136px;
+  position: absolute;
+}
+.the-que-club-booking1 {
+  top: 1066px;
+  left: 516px;
+  width: 111px;
+  height: 109px;
+  position: absolute;
+}
+.the-que-club-p-ringlers55660x4401 {
+  top: 2138px;
+  left: 727px;
+  width: 539px;
+  height: 396px;
+  position: absolute;
+}
+.the-que-club-tutorial1 {
+  top: 1578px;
+  left: 856px;
+  width: 130px;
+  height: 117px;
+  position: absolute;
+}
+.the-que-club-imperfectopatiogurgaon1 {
+  top: 2630px;
+  left: 762px;
+  width: 561px;
+  height: 337px;
+  position: absolute;
+}
+.the-que-club-tab1 {
+  top: 2838px;
+  left: 197px;
+  width: 40px;
+  height: 37px;
+  position: absolute;
+}
+.the-que-club-mem1 {
+  top: 2938px;
+  left: 198px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
